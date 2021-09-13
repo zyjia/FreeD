@@ -185,6 +185,22 @@
     },
     {
       "id": 1,
+      "name": "大地资源",
+      "url": "https://dadiapi.com/api.php",
+      "cate": "情色,28&&日韩无码,31&&国产精品,34&&自拍偷拍,30",
+      "click": true,
+      "wePlus": {}
+    },  
+    {
+      "id": 1,
+      "name": "极品影视",
+      "url": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
+      "cate": "电影,6&&动作片,2&&连续剧,3&&综艺,7",
+      "click": true,
+      "wePlus": {}
+    },        
+    {
+      "id": 1,
       "name": "38资源",
       "url": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
       "cate": "蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40",
